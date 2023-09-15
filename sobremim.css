@@ -93,9 +93,6 @@
         padding: 8%;
     }
     
-    .cabecalho__menu{
-        justify-content: center;
-    }
 
     .apresentacao{
         flex-direction: column-reverse;
