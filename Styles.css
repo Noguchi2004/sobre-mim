@@ -280,3 +280,244 @@ table{
     
 }
 
+
+
+
+
+
+
+@media (max-width: 1000px){
+
+    .cabecalho{
+        padding: 8%;
+    }
+    
+
+    .apresentacao{
+        flex-direction: column;
+        padding: 5%;
+    }
+
+    .cabecalho__menu__link{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 1rem;
+        font-weight: 400;
+        color: antiquewhite;
+        text-decoration: none;
+        text-shadow: #000;
+    
+    }
+ 
+    main{
+        text-shadow: 1px 1px 1px #000;
+        font-size: 1,5rem;
+        color: antiquewhite;
+        display: flex;
+        place-items: center;
+        text-align: center;
+    }
+
+    strong{
+        text-shadow: 1px 1px 1px #000;
+        font-size: 3rem;
+        color: antiquewhite;
+        display: grid;
+        place-items: center; /* Centraliza ambos horizontal e verticalmente */
+        height: 20px;
+}
+
+.imghaya{
+    max-width: 80%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10%;
+}
+
+.suzuki{
+    color: white;
+    text-shadow: 1px 1px 1px #000;
+    text-align: center;
+    background-color: #BCADAD;
+    width: 50%;
+    border-radius: 10px;
+    box-sizing: content-box;
+    border: 1px solid #ccc;
+    font-size: 1,25rem;
+    padding: 10px 0;
+    margin: 3px;
+    opacity: 70%;
+    position: relative;
+    left: 25%;
+    cursor: pointer;        
+}
+
+.suzuki:hover{
+    background-color: #000;
+}
+
+.suzuki a{
+    text-decoration: none;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.imgzx10r{
+    max-width: 75%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10%;
+}   
+
+.kawasaki{
+    color: lime;
+    text-shadow: 1px 1px 1px #000;
+    text-align: center;
+    background-color: #BCADAD;
+    width: 50%;
+    border-radius: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    font-size: 1,25rem;
+    padding: 5px 0;
+    margin: 5px;
+    opacity: 70%;    
+    position: relative;
+    left: 25%;
+    cursor: pointer;
+
+}
+
+.kawasaki:hover{
+    background-color: #000;
+}
+
+.kawasaki a{
+    text-decoration: none;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.imghonda{
+    max-width: 70%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10%;
+}   
+
+.honda{
+    color: blue;
+    text-shadow: 1px 1px 1px #000;
+    text-align: center;
+    background-color: #BCADAD;
+    width: 50%;
+    border-radius: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    font-size: 1,25rem;
+    padding: 5px 0;
+    margin: 5px;
+    opacity: 70%;
+    position: relative;
+    left: 25%;
+    cursor: pointer;
+
+}
+
+.honda:hover{
+    background-color: #000;
+}
+
+.honda a{
+    text-decoration: none;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.imgbmw{
+    max-width: 75%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10%;
+}   
+
+
+.bmw{
+    color: greenyellow;
+    text-shadow: 1px 1px 1px #000;
+    text-align: center;
+    background-color: #BCADAD;
+    width: 50%;
+    border-radius: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    font-size: 1,25rem;
+    padding: 5px 0;
+    margin: 5px;
+    opacity: 70%;
+    position: relative;
+    left: 25%;
+    cursor: pointer;
+
+}
+
+.bmw:hover{
+    background-color: #000;
+}
+
+.bmw a{
+    text-decoration: none;
+}
+
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.imgducati{
+    max-width: 75%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10%;
+}   
+
+.ducati{
+    color: darkred;
+    text-shadow: 1px 1px 1px #000;
+    text-align: center;
+    background-color: #BCADAD;
+    width: 50%;
+    border-radius: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    font-size: 1,25rem;
+    padding: 5px 0;
+    margin: 5px;
+    opacity: 70%;
+    position: relative;
+    left: 25%;
+    cursor: pointer;
+
+}
+
+.ducati:hover{
+    background-color: #000;
+}
+
+.ducati a{
+    text-decoration: none;
+}
+}
