@@ -62,7 +62,7 @@
 }
 
 .eu{
-    max-width: 30%;
+    max-width: 40%;
     height: auto;
     display: flex;
     margin: 0 auto;
@@ -93,12 +93,6 @@
         padding: 8%;
     }
 
-    .eu{
-    max-width: 50%;
-    height: auto;
-    display: flex;
-    margin: 0 auto;
-    border-radius: 20px;
 
     .apresentacao{
         flex-direction: column-reverse;
